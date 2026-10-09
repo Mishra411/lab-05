@@ -2,16 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Aalok Mishra`
+- **CCID:** `aalok1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Claude by Anthropic - Used to help with the delete function and check that deletions persist in Firestore.
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A`        | `N/A`     |
